@@ -2,7 +2,8 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'warning-alert-root',
+  //selector: 'warning-alert-root',
+  selector:`.warning-alert-root`,
   templateUrl: './warning-alert.component.html',
   //styleUrls: ['./warning-alert.component.css']
   styles:[`
